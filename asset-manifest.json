@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TV_Show_App/static/css/main.70b82a94.css",
+    "main.js": "/TV_Show_App/static/js/main.424efaf8.js",
+    "static/js/787.f90ec215.chunk.js": "/TV_Show_App/static/js/787.f90ec215.chunk.js",
+    "index.html": "/TV_Show_App/index.html",
+    "main.70b82a94.css.map": "/TV_Show_App/static/css/main.70b82a94.css.map",
+    "main.424efaf8.js.map": "/TV_Show_App/static/js/main.424efaf8.js.map",
+    "787.f90ec215.chunk.js.map": "/TV_Show_App/static/js/787.f90ec215.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70b82a94.css",
+    "static/js/main.424efaf8.js"
+  ]
+}
